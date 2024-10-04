@@ -1,15 +1,15 @@
 
-package Exemplo;
+package Exemplos;
 
 public class Aluno {
     
-    private String codigo;
+    private int codigo;
     private String nome;
     private String endereco;
     
     Aluno(int codigo, String nome){
-        this.codigo = c;
-        this.nome = n;
+        this.codigo = codigo;
+        this.nome = nome;
       
     }
     

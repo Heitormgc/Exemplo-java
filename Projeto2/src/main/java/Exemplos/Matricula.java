@@ -12,5 +12,12 @@ public class Matricula {
         this.turma = turma;
     
     }
+
+    public Aluno getAluno() {
+        return this.aluno;
+    }
     
+   public Turma getTurma() {
+        return this.turma;
+    }
 }

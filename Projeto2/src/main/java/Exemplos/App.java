@@ -16,6 +16,7 @@ public class App {
         
         System.out.println(m1.getAluno().getNome());
         System.out.println(m1.getTurma().getDescricao());
+        System.out.println(m1.getTurma().getCurso().getNome());
     }
     
 }

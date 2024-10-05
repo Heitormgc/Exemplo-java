@@ -14,6 +14,11 @@ public class Turma {
     public String getDescricao() {
         return this.descricao;
     }
+
+    public Curso getCurso() {
+        return this.curso;
+    }
+    
     
     
     

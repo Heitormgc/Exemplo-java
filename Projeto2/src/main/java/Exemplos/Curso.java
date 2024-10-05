@@ -9,5 +9,11 @@ public class Curso {
         this.nome = nome;
         this.duracao = duracao;
     }
+
+    public String getNome() {
+        return this.nome;
+    }
+    
+    
     
 }
